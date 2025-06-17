@@ -11,6 +11,11 @@ Inspirado en la justicia climática, el Camino Rojo, la arquitectura simbólica,
 
 - 🕯️ [Manifiesto de la Familia Unida](./Manifiesto_Familia_Unida_v2.pdf)  
 - 🧭 [Resumen técnico para GitHub / Open Collective](./Resumen_BancosCamas_Galway_v2.pdf)
+- ❤️‍🔥 .[Planos / Boceto inicial]
+(./1000001575.png)
+(./file_000000003adc6243abf2b95c532d6930.png)
+(./IMG-20250616-WA0022.jpeg)
+
 
 ## 🧠 Filosofía
 
